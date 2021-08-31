@@ -9,7 +9,6 @@ def tarjetas(pliegos,plumones):
         return tarjetasPlumones
 
 def main():
-    #escribe tu código abajo de esta línea
     pli = int(input("Dame la cantidad de pliegos de papel albanene: "))
     plu = int(input("Dame la cantidad de plumones: "))
 
